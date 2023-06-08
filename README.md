@@ -1,2 +1,2 @@
-# Airline-satisfaction-ML
+# AirlineSatisfactionML
 Predicting Satisfaction of  Airline Passengers #python
